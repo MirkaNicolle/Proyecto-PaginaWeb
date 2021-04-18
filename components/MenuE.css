@@ -1,0 +1,189 @@
+.menuE{
+    background-color: white;
+}
+
+.s{
+    font-family: Helvetica;
+    font-size: 44px;
+    color:black;
+    text-align: center;
+    padding-top: 100px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    -webkit-text-stroke: 2px;
+}
+
+.su{
+    font-family: Helvetica;
+    font-size: 25px;
+    color: #0066CC;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.su:hover{
+    text-decoration: underline;
+}
+
+.expo{
+    width: 220px;
+    height: 340px;
+}
+
+.listaiphone{
+    display: flex;
+    justify-content: space-between;
+    -webkit-box-pack: justify;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 80px;
+}
+
+h4{
+    font-family: Helvetica;
+    font-size: 18px;
+    color: #383737;
+}
+
+.p{
+    font-family: Helvetica;
+    font-size: 15px;
+    color: #434242;
+    display: block;
+    text-align: center;
+}
+
+.pi{
+    font-family: Helvetica;
+    font-size: 13px;
+    color: #958A8A;
+    display: block;
+    text-align: center;
+}
+
+.linea{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #958A8A;
+    font-size: 13px;
+    display: block;
+    text-align: center;
+}
+
+.link{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#0066CC;
+    font-size:13px;
+    display: block;
+    text-align: center;
+    padding: 10px;
+}
+
+.link:hover{
+    text-decoration: underline;
+}
+
+.none{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 38px;
+    color: #434242;
+
+}
+
+.none1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 38px;
+    color: #434242;
+
+}
+
+.idx1{
+    width: 60px;
+    height: 60px;
+    background-image: url('../resorces/5g.PNG');
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.idx1-2{
+    width: 45px;
+    height: 45px;
+    background-image: url('../resorces/4g.PNG');
+    padding-left: 20px ;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 16px;
+}
+
+.idx2{
+    width: 60px;
+    height: 60px;
+    background-image: url('../resorces/a14.PNG');
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.idx2-2{
+    width: 60px;
+    height: 60px;
+    background-image: url('../resorces/a13.PNG');
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.idx3{
+    width: 60px;
+    height: 60px;
+    background-image: url('../resorces/camara12pro.PNG');
+    margin-left: 10px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 0;
+    background-repeat: no-repeat;
+}
+
+.idx3-1{
+    width: 60px;
+    height: 60px;
+    background-image: url('../resorces/camara12.PNG');
+    margin-left: 10px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 0;
+    background-repeat: no-repeat;
+}
+
+.idx3-12{
+    width: 60px;
+    height: 60px;
+    background-image: url('../resorces/camaraSE.PNG');
+    margin-left: 10px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 0;
+    background-repeat: no-repeat;
+}
+
+
+.idx4{
+    width: 60px;
+    height: 60px;
+    background-image: url('../resorces/escaner.PNG');
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.idx5{
+    width: 60px;
+    height: 65px;
+    background-image: url('../resorces/compatible12pro.PNG');
+    margin-left: 15px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 0;
+    background-repeat: no-repeat;
+}
